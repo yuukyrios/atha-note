@@ -23,7 +23,7 @@ export default function Navbar({
       )}
     >
       <img
-        src="/img/logo.svg"
+        src="logo.svg"
         alt="Logo"
         className={searchOpen ? "hidden lg:inline" : ""}
       />
